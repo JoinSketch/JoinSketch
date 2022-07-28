@@ -1,6 +1,6 @@
 #include "Sketch.h"
 #include "FAGMS.h"
-#include "Classifier_ver3.h"
+#include "JoinSketch_ver3.h"
 #include "AGMS.h"
 #include "SkimSketch.h"
 int outerseed;
